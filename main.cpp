@@ -3,7 +3,7 @@
 int main()
 {
     Printing::Printer printer;
-
+//ffffff
     printer.print(" Hello Word! ");
     std::cerr << " принтеров создано: " << Printing::Printer::getCountCreatedPrinters() << std::endl;
 
